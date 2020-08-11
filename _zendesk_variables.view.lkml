@@ -21,7 +21,7 @@ view: _variables {
   dimension: _LOOKER_INSTANCE_DOMAIN {
     type: string
     hidden: yes
-    sql: 'shippit' ;;
+    sql: 'shippit.cloud' ;;
   }
 
 # Once you convert the Dashboard from LookML, the ID of the Zendesk Ticket Detail Dashboard

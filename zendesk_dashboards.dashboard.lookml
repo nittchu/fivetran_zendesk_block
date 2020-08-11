@@ -12,7 +12,7 @@
     sorts:
     - ticket.count desc
     limit: 500
-    query_timezone: America/Los_Angeles
+    query_timezone: Australia/Sydney
     custom_color_enabled: false
     custom_color: forestgreen
     show_single_value_title: true
@@ -60,7 +60,7 @@
     sorts:
     - ticket.count desc
     limit: 10
-    query_timezone: America/Los_Angeles
+    query_timezone: Australia/Sydney
     stacking: ''
     show_value_labels: true
     label_density: 25
@@ -112,7 +112,7 @@
     limit: 20
     total: true
     row_total: right
-    query_timezone: America/Los_Angeles
+    query_timezone: Australia/Sydney
     show_view_names: false
     show_row_numbers: false
     truncate_column_names: false
@@ -226,7 +226,7 @@
     sorts:
     - assignee.name
     limit: 500
-    query_timezone: America/Los_Angeles
+    query_timezone: Australia/Sydney
     stacking: ''
     show_value_labels: false
     label_density: 25
@@ -300,7 +300,7 @@
     sorts:
     - ticket.count desc
     limit: 500
-    query_timezone: America/Los_Angeles
+    query_timezone: Australia/Sydney
     custom_color_enabled: false
     custom_color: forestgreen
     show_single_value_title: true
@@ -347,7 +347,7 @@
     sorts:
     - ticket.count desc
     limit: 500
-    query_timezone: America/Los_Angeles
+    query_timezone: Australia/Sydney
     custom_color_enabled: false
     custom_color: forestgreen
     show_single_value_title: true
@@ -485,7 +485,7 @@
     - ticket.is_solved 0
     - ticket.count desc 0
     limit: 500
-    query_timezone: America/Los_Angeles
+    query_timezone: Australia/Sydney
     stacking: normal
     show_value_labels: false
     label_density: 25
@@ -552,7 +552,7 @@
     sorts:
     - ticket.days_since_updated desc
     limit: 10
-    query_timezone: America/Los_Angeles
+    query_timezone: Australia/Sydney
     show_view_names: false
     show_row_numbers: true
     truncate_column_names: true
@@ -697,7 +697,7 @@
     sorts:
     - ticket.count desc
     limit: 500
-    query_timezone: America/Los_Angeles
+    query_timezone: Australia/Sydney
     custom_color_enabled: false
     custom_color: forestgreen
     show_single_value_title: true
@@ -830,7 +830,7 @@
     sorts:
     - ticket.count desc
     limit: 500
-    query_timezone: America/Los_Angeles
+    query_timezone: Australia/Sydney
     custom_color_enabled: false
     custom_color: forestgreen
     show_single_value_title: true
@@ -938,7 +938,7 @@
     sorts:
     - ticket.count desc
     limit: 500
-    query_timezone: America/Los_Angeles
+    query_timezone: Australia/Sydney
     custom_color_enabled: false
     custom_color: forestgreen
     show_single_value_title: true
@@ -989,7 +989,7 @@
     - assignee.agent_comparitor desc
     limit: 500
     column_limit: 50
-    query_timezone: America/Los_Angeles
+    query_timezone: Australia/Sydney
     stacking: ''
     show_value_labels: true
     label_density: 25
@@ -1117,7 +1117,7 @@
     - ticket.is_solved 0
     - ticket.count desc 0
     limit: 500
-    query_timezone: America/Los_Angeles
+    query_timezone: Australia/Sydney
     stacking: normal
     show_value_labels: false
     label_density: 25
@@ -1185,7 +1185,7 @@
     sorts:
     - ticket.days_since_updated desc
     limit: 10
-    query_timezone: America/Los_Angeles
+    query_timezone: Australia/Sydney
     show_view_names: false
     show_row_numbers: true
     truncate_column_names: true
@@ -1254,7 +1254,7 @@
     - assignee.agent_comparitor desc
     limit: 500
     column_limit: 50
-    query_timezone: America/Los_Angeles
+    query_timezone: Australia/Sydney
     stacking: ''
     show_value_labels: true
     label_density: 25
